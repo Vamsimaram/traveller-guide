@@ -1,4 +1,14 @@
-<<<<<<< HEAD
+# Traveller-Guide
+
+This web application is a frontend project built using Next.js. It provides an interactive user interface for exploring climbing and camping locations, scheduling adventures. This application serves as a visual prototype.
+
+## Live Demo
+You can check out the live version of the application at:   [Demo](https://traveller-guide.vercel.app/)
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
